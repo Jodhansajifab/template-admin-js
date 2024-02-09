@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jodhan",
+    "password": "jodhan123456",
+    "database": "test_template",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jodhan",
+    "password": "jodhan123456",
+    "database": "testtemplate",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jodhan",
+    "password": "jodhan123456",
+    "database": "testtemplate",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
